@@ -9,3 +9,6 @@ python-dotenv
 tenacity
 vertexai
 protobuf
+chromadb
+sqlalchemy
+psycopg2-binary
