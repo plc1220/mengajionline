@@ -1,0 +1,11 @@
+streamlit
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-discoveryengine
+langchain-text-splitters
+pandas-gbq
+pydub
+python-dotenv
+tenacity
+vertexai
+protobuf
