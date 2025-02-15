@@ -12,3 +12,6 @@ protobuf
 chromadb
 sqlalchemy
 psycopg2-binary
+fastapi
+uvicorn
+python-multipart
